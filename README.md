@@ -1,2 +1,2 @@
 # kickbackend
-Current version of my social network app (currently in Alpha)
+Current Backend version of my social network app (currently in Alpha)
